@@ -1,0 +1,8 @@
+-do_do_re_do_mi_do
+-re_re_mi_re_fa_re
+-mi_mi_fa_mi_sol_mi
+-fa_fa_sol_fa_la_fa
+-sol_sol_la_sol_si_sol
+-la_la_si_la_do_la
+-si_si_do_si_re_si
+-do_si_do_re_do
